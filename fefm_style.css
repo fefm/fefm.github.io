@@ -10,20 +10,20 @@ body.home{
 
 a.link {
    font-family: Times New Roman;
-   color:  #999900;
+   color:  #995500;
    text-decoration: underline
 }
 
 a.biglink {
    font-family: Times New Roman;
-   color:  #999900;
+   color:  #995500;
    font-size: 20pt;
    text-decoration: underline
 }
 
 #big-bright-on-dark {
         color: #ffffff;
-        background-color: #999900;
+        background-color: #995500;
         font-size: 20pt;
         font-weight: bold
 }
