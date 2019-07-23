@@ -72,9 +72,9 @@ SUBMISSION AND PUBLICATION
 
 The workshop welcomes three different categories of submissions:
 
-a) regular papers: 15 pages + references
-b) short papers:  6-8 pages + references
-c) preshortsentations: up to 4 pages + references
+a) regular papers: 15 pages + references;
+b) short papers:  6-8 pages + references;
+c) preshortsentations: up to 4 pages + references.
 
 Regular and short papers need to make original contributions and
 will be published in the post-proceedings; for this Springer LNCS
