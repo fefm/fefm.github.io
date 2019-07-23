@@ -74,7 +74,7 @@ The workshop welcomes three different categories of submissions:
 
 a) regular papers: 15 pages + references
 b) short papers:  6-8 pages + references
-c) presentations: up to 4 pages + references
+c) preshortsentations: up to 4 pages + references
 
 Regular and short papers need to make original contributions and
 will be published in the post-proceedings; for this Springer LNCS
@@ -90,10 +90,10 @@ There are plans for a follow-up special issue in a journal on education.
 IMPORTANT DATES
 -----------------------------------------------------------------------------------
 
-Short and regular papers submission deadline: Monday 30 September 2019
-Notification of short and regular papers: Friday 1 November 2019
-Presentations submission deadline: Saturday 2 November 2019
-Notification of presentations: Wednesday 6 November 2019
+Short and regular paper submission deadline: Monday 30 September 2019
+Short and regular paper notification: Friday 1 November 2019
+Presentation submission deadline: Saturday 2 November 2019
+Presentations notification: Wednesday 6 November 2019
 Workshop: Monday 2 and Tuesday 3 December 2019
 Camera ready papers for post-proceedings: Monday 20 January 2020
 
